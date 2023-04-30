@@ -102,4 +102,4 @@ class Car {
    return diceOrder;
  }
 
- raceGameRunner()
+ raceGameRunner();
